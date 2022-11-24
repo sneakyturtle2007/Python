@@ -26,11 +26,6 @@ def second_choice_int():
         print(num1 ** num2)
         calc_Con()
 
-
-
-print("Hello and Welcome.")
-
-
 def calc():
     num1 = float(input("What is the first number would you like to enter: "))
     second_Choice = str(input("Do you need to enter another number? [Y/N]\n"))
@@ -85,6 +80,11 @@ def calc():
             import math
             print(math.sqrt(num1))
             calc_Con()
+
+
+print("Hello and Welcome.")
+
+
 
 
 app = str(input("Type 1 to start. \n"))
