@@ -1,4 +1,4 @@
 # Just-messing-around-with-python
 Me trying my best to learn python.
 
-The inprogress1 file is a just a very basic calculator.
+These are my school assignments and me just playing around with python.
