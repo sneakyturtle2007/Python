@@ -1,1 +1,1 @@
-There is a weird error where if you hold down the input buttons then the dinosaur and the cactus go super speed and have momentum.
+My version of the offline google dinosaur made using the pythons tkinter library.
